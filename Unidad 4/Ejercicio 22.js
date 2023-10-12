@@ -8,5 +8,4 @@ if (num1 % 3 === 0 && num1 % 5 === 0) {
 } else if (num1 % 3 === 0) {
     console.log("El primer número es múltiplo de 3");
 }
-// Repetir el proceso para los otros dos números
 
